@@ -25,7 +25,7 @@
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danial-riazati&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danial-riazati&theme=light)
 ![danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=danial-riazati&theme=light&show_icons=true)
 
 <!--
