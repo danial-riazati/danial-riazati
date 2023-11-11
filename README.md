@@ -2,7 +2,7 @@ Hi. I'm Danial.
 -----------------------------
 
 * ✉️  You can contact me at [dnr1380@gmail.com](mailto:dnr1380@gmail.com)
-* 🧠  I'm currently learning Microsevices over .NET 6 
+* 🧠  I'm currently learning Golang;)
 
 ### Skills
 
