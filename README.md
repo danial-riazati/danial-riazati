@@ -1,7 +1,7 @@
 Hi. I'm Danial.
 -----------------------------
 
-* ✉️  You can contact me at [dnr1380@gmail.com](mailto:dnr1380@gmail.com)
+* ✉️  You can contact me at [riazatidanial@gmail.com](mailto:riazatidanial@gmail.com)
 
 ### Skills
 
