@@ -1,7 +1,7 @@
 Hi. I'm Danial.
 -----------------------------
-* ✉️  My portfolio at [danialriazati.ir](https://danialriazati.ir)
-* ✉️  You can contact me at [riazatidanial@gmail.com](mailto:riazatidanial@gmail.com)
+* 👨🏻‍💻  My portfolio at [danialriazati.ir](https://danialriazati.ir)
+* ✉️  You can contact me at [riazatidanial@gmail.com](mailto:riazatidanial@gmail.com)
 
 ### Skills
 
